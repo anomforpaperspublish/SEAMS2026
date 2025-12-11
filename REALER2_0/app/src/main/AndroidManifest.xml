@@ -12,28 +12,20 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.REALER_2">
         <activity
-            android:name=".UserProfileActivity"
-            android:exported="false"
-            android:theme="@style/Theme.REALER_2" />
-        <activity
             android:name=".ui.AlertActivity"
             android:exported="false" />
-        <!--
-activity
+        <activity
             android:name=".ui.RegisterListActivity"
-            android:exported="false" /
-        -->
+            android:exported="false" />
         <activity
             android:name=".ui.CaregiverListActivity"
             android:exported="false" />
         <activity
             android:name=".ui.HistoricActivity"
             android:exported="false" />
-        <!--
-activity
+        <activity
             android:name=".ui.RegisterActivity"
-            android:exported="false" /
-        -->
+            android:exported="false" />
         <activity
             android:name=".ui.CaregiverActivity"
             android:exported="false" />
